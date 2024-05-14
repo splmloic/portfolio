@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"
 import Projects from '../components/projects'
 import hero from '../assets/imgs/hero-pic.png'
 
@@ -15,10 +15,10 @@ function Home() {
                 </div>
             </div>
             <div className="py-5">
-                <p className="text-lg text-center font-bold tracking-tight text-gray-900 sm:text-md">Vous pourrez trouver ci-dessous la liste de mes projets. J'en ai réalisé certains lors de ma formation chez The Hacking Project, et d'autres sont des projets personnels.</p>
+                <p className="text-lg text-center tracking-tight text-gray-900 sm:text-md">Vous pourrez trouver ci-dessous la liste de mes projets. J'en ai réalisé certains lors de ma formation chez The Hacking Project, et d'autres sont des projets personnels.</p>
             </div>
             < Projects/>
-            <p className="text-lg text-center leading-8 text-gray-600">Vous souhaitez discuter avec moi, que ce soit pour me proposer un poste ou pour passer le temps. Remplissez le formulaire ci-dessous, je vous contacterai dès que je le peux.</p>
+            <p className="text-lg text-center tracking-tight text-gray-900 sm:text-md">Vous souhaitez discuter avec moi, que ce soit pour me proposer un poste ou pour passer le temps. Remplissez le formulaire ci-dessous, je vous contacterai dès que je le peux.</p>
             <form className="max-w-3xl mx-auto">
             <div className="mb-4">
                 <label htmlFor="email" className="block text-gray-700 font-bold mb-2">Email</label>
@@ -33,7 +33,7 @@ function Home() {
                 <textarea id="message" name="message" rows="5" className="w-full px-3 py-2 border rounded-md text-gray-700 focus:outline-none focus:border-purple-500" placeholder="Votre message" required></textarea>
             </div>
             <div className="text-center">
-                <button type="submit" className="bg-purple-500 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded">Envoyer</button>
+                <button type="submit" className="bg-purple-500 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded-full">Envoyer</button>
             </div>
             </form>
         </div>
