@@ -1,0 +1,321 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "attributes": {
+          "name": "The Chaton project",
+          "description": "Site ecommerce de vente d'image de chaton. Projet d'équipe dans le cadre de the hacking project\n",
+          "contenu": "- Slack : Ruby on Rails, Bootstrap, html, css, js\n- Github : https://github.com/splmloic/thechattonproject",
+          "createdAt": "2024-05-10T10:39:45.067Z",
+          "updatedAt": "2024-05-14T15:36:08.941Z",
+          "publishedAt": "2024-05-10T10:51:14.457Z",
+          "slug": "The-chatton-project",
+          "backgroundimg": {
+            "data": {
+              "id": 2,
+              "attributes": {
+                "name": "Capture d’écran 2024-05-10 à 12.48.14.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 2304,
+                "height": 996,
+                "formats": {
+                  "medium": {
+                    "name": "medium_Capture d’écran 2024-05-10 à 12.48.14.png",
+                    "hash": "medium_Capture_d_ecran_2024_05_10_a_12_48_14_c5cf582e3e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 750,
+                    "height": 324,
+                    "size": 331.5,
+                    "sizeInBytes": 331496,
+                    "url": "../public/assets/imgs/The-chatton-project/backgroundimg.png"
+                  }
+                }
+              }
+            }
+          },
+          "screenshots": {
+            "data": [
+              {
+                "id": 3,
+                "attributes": {
+                  "name": "Capture d’écran 2024-05-10 à 12.48.55.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1381,
+                  "height": 825,
+                  "hash": "Capture_d_ecran_2024_05_10_a_12_48_55_3288f57db4",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 135.4,
+                  "url": "/The-chatton-project/caroussel1.png",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T10:51:04.253Z",
+                  "updatedAt": "2024-05-10T10:51:04.253Z"
+                }
+              },
+              {
+                "id": 4,
+                "attributes": {
+                  "name": "Capture d’écran 2024-05-10 à 12.50.20.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1381,
+                  "height": 983,
+                  "hash": "Capture_d_ecran_2024_05_10_a_12_50_20_019282ab31",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 338.51,
+                  "url": "/The-chatton-project/caroussel2.png",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T10:51:04.874Z",
+                  "updatedAt": "2024-05-10T10:51:04.874Z"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": 2,
+        "attributes": {
+          "name": "FoodTech",
+          "description": "Petit site One Page avec manipulation de DOM pour un restaurant bohème fictif",
+          "contenu": "- slack : Javascript, html, css\n- github : https://github.com/splmloic/Foodtech-style",
+          "createdAt": "2024-05-10T10:55:52.487Z",
+          "updatedAt": "2024-05-14T15:10:13.632Z",
+          "publishedAt": "2024-05-10T11:07:25.577Z",
+          "slug": "foodtech",
+          "backgroundimg": {
+            "data": {
+              "id": 6,
+              "attributes": {
+                "name": "Capture d’écran 2024-05-10 à 12.53.58.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 2302,
+                "height": 1032,
+                "formats": {
+                  "medium": {
+                    "name": "medium_Capture d’écran 2024-05-10 à 12.53.58.png",
+                    "hash": "medium_Capture_d_ecran_2024_05_10_a_12_53_58_7a35e88970",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 750,
+                    "height": 336,
+                    "size": 641.84,
+                    "sizeInBytes": 641837,
+                    "url": "../public/assets/imgs/foodtech/backgroundimg.png"
+                  }
+                }
+              }
+            }
+          },
+          "screenshots": {
+            "data": [
+              {
+                "id": 7,
+                "attributes": {
+                  "name": "Capture d’écran 2024-05-10 à 12.54.29.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 440,
+                  "height": 520,
+                  "hash": "Capture_d_ecran_2024_05_10_a_12_54_29_4b7e48f356",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 106.23,
+                  "url": "/foodtech/caroussel1.png",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T10:55:31.743Z",
+                  "updatedAt": "2024-05-10T10:55:31.743Z"
+                }
+              },
+              {
+                "id": 8,
+                "attributes": {
+                  "name": "Capture d’écran 2024-05-10 à 12.54.20.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 440,
+                  "height": 520,
+                  "hash": "Capture_d_ecran_2024_05_10_a_12_54_20_42960e8df1",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 113.11,
+                  "url": "/foodtech/caroussel1.png",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T10:55:31.751Z",
+                  "updatedAt": "2024-05-10T10:55:31.751Z"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": 3,
+        "attributes": {
+          "name": "Keella",
+          "description": "Ici, vous pouvez louer ou mettre à disposition des équipements et des locaux sportifs partout en France.\nProjet d'équipe dans le cadre de the hacking project\n",
+          "contenu": "- Slack : Ruby on Rails, Bootstrap, html, css, js\n- Github : https://github.com/tommy-pellerin/keella",
+          "createdAt": "2024-05-10T11:02:58.534Z",
+          "updatedAt": "2024-05-14T15:36:28.556Z",
+          "publishedAt": "2024-05-10T11:07:20.794Z",
+          "slug": "keella",
+          "backgroundimg": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "name": "Capture d’écran 2024-05-10 à 13.01.28.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 2301,
+                "height": 753,
+                "formats": {
+                  "medium": {
+                    "name": "medium_Capture d’écran 2024-05-10 à 13.01.28.png",
+                    "hash": "medium_Capture_d_ecran_2024_05_10_a_13_01_28_7de77d75fc",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 750,
+                    "height": 245,
+                    "size": 341.29,
+                    "sizeInBytes": 341288,
+                    "url": "../public/assets/imgs/Keella/backgroundimg.png"
+                  }
+                }
+              }
+            }
+          },
+          "screenshots": {
+            "data": [
+              {
+                "id": 10,
+                "attributes": {
+                  "name": "Capture d’écran 2024-05-10 à 13.02.08.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1494,
+                  "height": 642,
+                  "hash": "Capture_d_ecran_2024_05_10_a_13_02_08_a4b0746398",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 160.43,
+                  "url": "/Keella/caroussel1.png",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T11:02:50.077Z",
+                  "updatedAt": "2024-05-10T11:02:50.077Z"
+                }
+              },
+              {
+                "id": 11,
+                "attributes": {
+                  "name": "Capture d’écran 2024-05-10 à 13.02.24.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1494,
+                  "height": 982,
+                  "hash": "Capture_d_ecran_2024_05_10_a_13_02_24_dd1c4fcc52",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 188.76,
+                  "url": "/Keella/caroussel2.png",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T11:02:50.432Z",
+                  "updatedAt": "2024-05-10T11:02:50.432Z"
+                }
+              },
+              {
+                "id": 12,
+                "attributes": {
+                  "name": "Capture d’écran 2024-05-10 à 13.01.57.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1494,
+                  "height": 669,
+                  "hash": "Capture_d_ecran_2024_05_10_a_13_01_57_fe55a350bc",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 179.59,
+                  "url": "/Keella/caroussel3.png",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T11:02:50.465Z",
+                  "updatedAt": "2024-05-10T11:02:50.465Z"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": 4,
+        "attributes": {
+          "name": "Social Network",
+          "description": "MVP d'un réseau social avec un backend Strapi",
+          "contenu": "https://github.com/splmloic/thesocialnetwork",
+          "createdAt": "2024-05-24T15:08:34.727Z",
+          "updatedAt": "2024-05-24T15:23:05.995Z",
+          "publishedAt": "2024-05-24T15:21:02.901Z",
+          "slug": "social-network",
+          "backgroundimg": {
+            "data": {
+              "id": 14,
+              "attributes": {
+                "name": "15.jpeg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 5197,
+                "height": 3465,
+                "formats": {
+                  "medium": {
+                    "name": "medium_15.jpeg",
+                    "hash": "medium_15_b97f825be0",
+                    "ext": ".jpeg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 750,
+                    "height": 500,
+                    "size": 56.78,
+                    "sizeInBytes": 56779,
+                    "url": "../public/assets/imgs/social-network/backgroundimg.jpeg"
+                  }
+                },
+                "hash": "15_b97f825be0",
+                "ext": ".jpeg",
+                "mime": "image/jpeg",
+                "size": 462.27,
+                "url": "/uploads/15_b97f825be0.jpeg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-05-24T15:22:28.535Z",
+                "updatedAt": "2024-05-24T15:22:28.535Z"
+              }
+            }
+          },
+          "screenshots": {
+            "data": null
+          }
+        }
+      }
+    ]
+  }

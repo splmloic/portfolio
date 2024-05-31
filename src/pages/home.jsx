@@ -1,6 +1,6 @@
 import React from "react"
 import Projects from '../components/projects'
-import hero from '../assets/imgs/hero-pic.png'
+import hero from '../../public/assets/imgs/hero-pic.png'
 
 function Home() {
     return(

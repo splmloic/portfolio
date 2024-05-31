@@ -14,10 +14,10 @@ function App() {
         <BrowserRouter>
         <Navbar/>
           <Routes>
+            <Route path="/" element={<Home/>}/>
             <Route path="/:projectSlug" element={<Project/>}/>
             <Route path="/projects/:projectSlug" element={<Project/>}/>
             <Route path="/projects" element={<ProjectsPage/>}/>
-            <Route path="/" element={<Home/>}/>
           </Routes>
         </BrowserRouter>
     </main>
