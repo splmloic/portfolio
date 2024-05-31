@@ -30,7 +30,7 @@ function Project() {
 
     return(
     <div className="max-w-4xl mx-auto">
-        <div className="bg-cover bg-center h-64 rounded-t-lg" style={{ backgroundImage: `url('../imgs${project.attributes.backgroundimg.data.attributes.formats.medium.url}')` }}>
+        <div className="bg-cover bg-center h-64 rounded-t-lg" style={{ backgroundImage: `url(${project.attributes.backgroundimg.data.attributes.formats.medium.url})`}}>
             <h2 className="text-4xl font-bold text-white uppercase text-center py-8">{project.attributes.name}</h2>
         </div>
         <div className="p-4">
@@ -39,7 +39,7 @@ function Project() {
         </div>
         <div className="overflow-x-auto whitespace-nowrap bg-gray-200 p-4 mt-4 rounded-lg">
             {project.attributes.screenshots.data.map(project => (
-                <img key={project.id} src={`../assets/imgs${project.attributes.url}`} alt={project.attributes.name} className="inline-block h-32 mr-4 rounded-lg shadow-lg" />
+                <img key={project.id} src={`${project.attributes.url}`} alt={project.attributes.name} className="inline-block h-32 mr-4 rounded-lg shadow-lg" />
             ))}
         </div>
     </div>

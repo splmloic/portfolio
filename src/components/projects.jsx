@@ -23,7 +23,7 @@ function Projects() {
                                 <h2 className="font-bold text-xl mb-2">{project.attributes.name}</h2>
                                 <p className="text-gray-700 text-base">{project.attributes.description}</p>
                             </div>
-                            <Link className="block bg-purple-500 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded-full text-center">Voir le projet</Link>
+                            <Link to={project.attributes.slug} className="block bg-purple-500 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded-full text-center">Voir le projet</Link>
                         </div>
                     </div>
                 ))}

@@ -50,7 +50,7 @@
                   "ext": ".png",
                   "mime": "image/png",
                   "size": 135.4,
-                  "url": "/The-chatton-project/caroussel1.png",
+                  "url": "../public/assets/imgs/The-chatton-project/caroussel1.png",
                   "previewUrl": null,
                   "provider": "local",
                   "provider_metadata": null,
@@ -70,7 +70,7 @@
                   "ext": ".png",
                   "mime": "image/png",
                   "size": 338.51,
-                  "url": "/The-chatton-project/caroussel2.png",
+                  "url": "../public/assets/imgs/The-chatton-project/caroussel2.png",
                   "previewUrl": null,
                   "provider": "local",
                   "provider_metadata": null,
@@ -132,7 +132,7 @@
                   "ext": ".png",
                   "mime": "image/png",
                   "size": 106.23,
-                  "url": "/foodtech/caroussel1.png",
+                  "url": "../public/assets/imgs/foodtech/caroussel1.png",
                   "previewUrl": null,
                   "provider": "local",
                   "provider_metadata": null,
@@ -152,7 +152,7 @@
                   "ext": ".png",
                   "mime": "image/png",
                   "size": 113.11,
-                  "url": "/foodtech/caroussel1.png",
+                  "url": "../public/assets/imgs/foodtech/caroussel2.png",
                   "previewUrl": null,
                   "provider": "local",
                   "provider_metadata": null,
@@ -214,7 +214,7 @@
                   "ext": ".png",
                   "mime": "image/png",
                   "size": 160.43,
-                  "url": "/Keella/caroussel1.png",
+                  "url": "../public/assets/imgs/Keella/caroussel1.png",
                   "previewUrl": null,
                   "provider": "local",
                   "provider_metadata": null,
@@ -234,7 +234,7 @@
                   "ext": ".png",
                   "mime": "image/png",
                   "size": 188.76,
-                  "url": "/Keella/caroussel2.png",
+                  "url": "../public/assets/imgs/Keella/caroussel2.png",
                   "previewUrl": null,
                   "provider": "local",
                   "provider_metadata": null,
@@ -254,7 +254,7 @@
                   "ext": ".png",
                   "mime": "image/png",
                   "size": 179.59,
-                  "url": "/Keella/caroussel3.png",
+                  "url": "../public/assets/imgs/Keella/caroussel3.png",
                   "previewUrl": null,
                   "provider": "local",
                   "provider_metadata": null,
@@ -303,7 +303,7 @@
                 "ext": ".jpeg",
                 "mime": "image/jpeg",
                 "size": 462.27,
-                "url": "/uploads/15_b97f825be0.jpeg",
+                "url": "../public/assets/imgs/social-network/backgroundimg.jpeg",
                 "previewUrl": null,
                 "provider": "local",
                 "provider_metadata": null,
@@ -313,7 +313,28 @@
             }
           },
           "screenshots": {
-            "data": null
+            "data": [
+              {
+                "id": 10,
+                "attributes": {
+                  "name": "Capture d’écran 2024-05-10 à 13.02.08.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1494,
+                  "height": 642,
+                  "hash": "Capture_d_ecran_2024_05_10_a_13_02_08_a4b0746398",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 160.43,
+                  "url": "../public/assets/imgs/social-network/backgroundimg.jpeg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T11:02:50.077Z",
+                  "updatedAt": "2024-05-10T11:02:50.077Z"
+                }
+              }
+            ]
           }
         }
       }
